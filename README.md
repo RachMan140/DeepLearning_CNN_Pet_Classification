@@ -31,7 +31,7 @@ Ringkasan result ada di `Log_Hasil_Mentah/experiment_summary(1).csv`. Log per ep
 
 ## Environment
 
-Library yang diperlukan tercantum di `requirements.txt`. Eksperimen dijalankan menggunakan 3.13.15 (main, Aug  6 2026, 11:06:22) [GCC 13.3.0]
+Library yang diperlukan tercantum di `requirements.txt`. Eksperimen dijalankan menggunakan 3.13.15 [GCC 13.3.0]
 
 ## Referensi dan Atribusi
 
