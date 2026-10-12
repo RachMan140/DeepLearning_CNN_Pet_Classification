@@ -1,5 +1,5 @@
 # DeepLearning_CNN_Pet_Classification
-Assignment Deep Learning Class GSLC session, exploring the use of advanced CNN for pet breed class classification.
+Assignment Deep Learning Class, exploring the use of advanced CNN for pet breed class classification.
 
 Proyek ini membandingkan beberapa konfigurasi model untuk mengklasifikasikan gambar ke dalam 10 kelas ras kucing dan anjing. Eksperimen menggunakan ResNet-18 dan EfficientNet-B0, termasuk perbandingan pelatihan dari awal, transfer learning, serta augmentasi data.
 
