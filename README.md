@@ -15,7 +15,7 @@ Proyek ini membandingkan beberapa konfigurasi model untuk mengklasifikasikan gam
 ## Dataset
 
 Menggunakan Oxford-IIIT Pet Dataset yang dibuat oleh Omkar M. Parkhi, Andrea Vedaldi, Andrew Zisserman, dan C. V. Jawahar dari Visual Geometry Group, University of Oxford. Dataset resmi tersedia di [halaman Oxford-IIIT Pet](https://www.robots.ox.ac.uk/~vgg/data/pets/).
-Eksperimen ini menggunakan 10 kelas terpilih dari dataset tersebut yang tersedia langsung melalui *torchvision.datasets.OxfordIIITPet* tanpa autentikasi pihak ketiga.
+Eksperimen ini menggunakan 10 kelas terpilih dari dataset tersebut yang tersedia langsung melalui `torchvision.datasets.OxfordIIITPet` tanpa autentikasi pihak ketiga.
 
 ## Menjalankan Notebook
 
