@@ -35,5 +35,5 @@ Library yang diperlukan tercantum di `requirements.txt`. Eksperimen dijalankan m
 
 ## Referensi dan Atribusi
 
-- Dataset: Oxford-IIIT Pet [halaman Oxford-IIIT Pet](https://www.robots.ox.ac.uk/~vgg/data/pets/).
+- Dataset: Oxford-IIIT Pet - [halaman Oxford-IIIT Pet](https://www.robots.ox.ac.uk/~vgg/data/pets/).
 - Model dan pustaka: PyTorch dan Torchvision.
